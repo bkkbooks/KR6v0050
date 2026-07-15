@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0050/v1
 canonical_location: https://kanripo.org/bkk/KR6v0050/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 觀經變像經文偈頌
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR6v0050_001.yaml, hash: 'sha256:7dde78562c8baa456caec810ddb249056955229e3c662564de5fa0f816925bab'}
+  - {seq: 1, filename: KR6v0050_001.yaml, hash: 'sha256:8874cdb1444d5999ca82e0640b97c5e6d6215051343558699d87a00ace3237b6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0050_001.markers.yaml, hash: 'sha256:25912fd37cd175a3b2f84f19e045f47284951c5447aa1ca313dca2883fdd8fa0'}
+  - {seq: 1, role: markers, filename: assets/KR6v0050_001.markers.yaml, hash: 'sha256:bcce010cf5fa4c31ab42823d0c2644899b49f6e115c0faab5335ba410fbbd52e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -340,6 +340,9 @@ table_of_contents:
   label: 錄文三：再三相勸念彌陀
   type: mulu
   level: 1
-hash: sha256:dca9a4ac57b038ffa2ab7fc4be90f5c63839a8f32b9179f189a72c12c9c3ba18
+hash: sha256:2ed8ff64774d003affa8516e79212b4fa79bc23e4c7e5d7fa18b25994f663cf5
 editions:
 - short: ZW
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
